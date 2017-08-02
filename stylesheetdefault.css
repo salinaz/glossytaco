@@ -1,0 +1,26 @@
+body,html{
+  background-image: url("http://1-background.com/images/meteorites/meteorite-background-seamless-crystals.jpg");
+  margin: 0;
+  padding: 0;
+  opacity: 0.97;
+}
+
+#topBar{
+  margin: auto;
+  background-color: black;
+  width: 80%;
+  height: 22px;
+  padding: 15px;
+  z-index: 2;
+  opacity: 0.8;
+}
+
+#column{
+  margin:auto;
+  height: auto;
+  width: 80%;
+  opacity: 90%;
+  background-color: white;
+  padding: 15px;
+  z-index: -1;
+}
